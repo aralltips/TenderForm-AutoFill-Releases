@@ -1,0 +1,12 @@
+{
+  "version": "2.9.0",
+  "date": "2026-08-01",
+  "zipUrl": "https://raw.githubusercontent.com/aralltips/TenderForm-AutoFill-Releases/main/TenderForm-AutoFill-v2.9.0.zip",
+  "page": "https://github.com/aralltips/TenderForm-AutoFill-Releases",
+  "ownerOnly": "false",
+  "news": [
+    "🆕 এখন থেকে popup-এই দেখাবে নতুন ভার্সন এসেছে কি না",
+    "তালিকা থেকে ভুল বসা বন্ধ (Pen ≠ Pencil)",
+    "রেট/দেশ উল্টো লিখলে ধরা পড়ে + ⚠️ বার্তা"
+  ]
+}
